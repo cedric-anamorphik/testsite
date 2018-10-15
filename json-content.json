@@ -1,0 +1,12 @@
+{
+	"directories": [
+		{
+		"title": "mydir",
+                "files": 15,
+                },
+		{
+                "title": "mydir2",
+                "files": 12,
+                },
+	]
+}
